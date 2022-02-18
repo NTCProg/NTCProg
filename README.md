@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @NTCProg
+- 👀 I’m interested in automation software
